@@ -1,4 +1,4 @@
-# Regeln für das Erstellen von Issues auf Github
+# Regeln für das Erstellen von Issues
 
 1. Überprüfe, ob das Problem bereits gemeldet wurde. Bevor du ein neues Issue erstellst, solltest du sicherstellen, dass das Problem nicht bereits gemeldet wurde. Suche in den vorhandenen Issues nach ähnlichen Problemen und 2. überprüfe, ob es bereits eine Lösung gibt oder ob das Problem behoben wurde.
 3. Beschreibe das Problem oder die Idee so detailliert wie möglich. Eine genaue Beschreibung des Problems oder der Idee hilft uns, das Problem zu reproduzieren oder die Idee besser zu verstehen. Bitte gib alle relevanten Informationen an, wie zum Beispiel die Schritte zur Reproduktion des Fehlers oder die Funktionalität, die das Feature bereitstellen sollte.
