@@ -1,8 +1,10 @@
 # Regeln für das Erstellen von Issues
 
-1. Überprüfe, ob das Problem bereits gemeldet wurde. Bevor du ein neues Issue erstellst, solltest du sicherstellen, dass das Problem nicht bereits gemeldet wurde. Suche in den vorhandenen Issues nach ähnlichen Problemen und 2. überprüfe, ob es bereits eine Lösung gibt oder ob das Problem behoben wurde.
-3. Füge relevante Informationen hinzu. Wenn du einen Fehler meldest, füge bitte Informationen wie das Betriebssystem, den Browser und die Version des Projekts hinzu, bei dem das Problem auftritt. Wenn du eine Idee vorschlägst, füge bitte relevante Links oder Beispiele hinzu, die deine Idee unterstützen.
-4. Sei respektvoll gegenüber anderen. Respektiere die Meinungen anderer und versuche, sachlich zu bleiben. Verwende keine beleidigende oder abfällige Sprache. Wir sind hier, um zusammenzuarbeiten und das Projekt zu verbessern.
+1. Überprüfe, ob das Problem bereits gemeldet wurde. Bevor du ein neues Issue erstellst, solltest du sicherstellen, dass das Problem nicht bereits gemeldet wurde. Suche in den vorhandenen Issues nach ähnlichen Problemen und überprüfe, ob es bereits eine Lösung gibt oder ob das Problem behoben wurde.
+
+2. Füge relevante Informationen hinzu. Wenn du einen Fehler meldest, füge bitte Informationen wie das Betriebssystem, den Browser und die Version des Projekts hinzu, bei dem das Problem auftritt. Wenn du eine Idee vorschlägst, füge bitte relevante Links oder Beispiele hinzu, die deine Idee unterstützen.
+
+3. Sei respektvoll gegenüber anderen. Respektiere die Meinungen anderer und versuche, sachlich zu bleiben. Verwende keine beleidigende oder abfällige Sprache. Wir sind hier, um zusammenzuarbeiten und das Projekt zu verbessern.
 
 # Wie erstelle ich ein Issue
 1. Gehe zur Github-Seite des Projekts.
